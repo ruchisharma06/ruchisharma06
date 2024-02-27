@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/AchAaby3cski5RAavq/giphy.gif" width="100"/>
+</div>
+
+### Hi , It's Ruchi Sharma 👋
 
 <!--
 **ruchisharma06/ruchisharma06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/AchAaby3cski5RAavq/giphy.gif" width="100"/>
-</div>
+
 
