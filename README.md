@@ -33,7 +33,7 @@ Skills
 <br />
 
 
-- 🔭 I’m currently working on creating 3D bounding boxes for object detection and 3D reconstruction using YOLOv8, GAN, and Mediapipe as a Graduate Assistant. My focus involves integrating YOLOv8, GAN, and Mediapipe technologies for improved predictions in the context of 3D image processing.
+- 🔭 I’m currently working on creating 3D bounding boxes for object detection and 3D reconstruction using YOLOv8, GAN, and Mediapipe. My focus involves integrating YOLOv8, GAN, and Mediapipe technologies for improved predictions in the context of 3D image processing.
   
 - 🌱 I’m currently learning about the latest advancements in AI and ML frameworks, exploring new techniques to further enhance my skills in Python, Java, and other relevant technologies.
 
@@ -47,7 +47,7 @@ Skills
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: I developed a facial recognition system using OpenCV for seamless user authentication on mobile devices during my internship at Shoptaki.
+- ⚡ Fun fact: I developed a facial recognition system using OpenCV for seamless user authentication on mobile devices.
 
 
 
