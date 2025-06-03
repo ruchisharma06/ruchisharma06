@@ -45,20 +45,20 @@
 
 ### 💼 Experience Highlights
 
-#### 🔹 Data Analyst – United Healthcare Group (2023–Present)
-- Built and deployed **automated data pipelines** and **predictive analytics models** for ER patient flow, improving throughput and reducing wait times.
-- Designed **interactive Power BI dashboards** with 10+ KPIs, enabling real-time monitoring of hospital metrics and resource allocation.
-- Used **Apache Airflow** to orchestrate and automate ETL workflows, reducing manual intervention and errors by 30%.
+#### 🔹 Data Analyst – UnitedHealth Group (2023–Present)  
+- Built HIPAA-compliant ETL pipelines and predictive models in AWS, improving claims processing and forecasting healthcare costs with >0.82 AUC.  
+- Designed Power BI dashboards tracking key hospital metrics and member risk groups, enabling targeted interventions and 7% cost reduction.  
+- Automated workflows using Apache Airflow and documented data lineage for audit readiness.
 
-#### 🔹 Senior Analyst – HCL Technologies (2021–2023)
-- Led **fraud detection and risk analytics** projects, achieving a **20% improvement in fraud detection** accuracy.
-- Developed a **fraud scoring framework** using Python, Power BI, and AWS S3, improving model precision to 85% and reducing ETL errors by 25%.
-- Collaborated with cross-functional teams to create **end-to-end reporting pipelines** and ad hoc dashboards.
+#### 🔹 Data Analyst – HCL Technologies (2020–2022)  
+- Migrated and integrated healthcare data into AWS Redshift/S3, reducing reporting errors by 45% and cutting costs by 20%.  
+- Developed Power BI dashboards uncovering $2M+ in cost savings and optimized ETL pipelines for faster data ingestion.  
+- Ensured full HIPAA/CMS compliance and improved onboarding with detailed ETL documentation.
 
-#### 🔹 Analyst – Capgemini (2019–2021)
-- Built **real-time dashboards in Tableau** for healthcare and insurance datasets, enabling data-driven decision-making for stakeholders.
-- Automated data processing and **statistical reporting** using Python, SQL, and R.
-- Streamlined data pipelines, reducing processing time by 40% for key healthcare clients.
+#### 🔹 Data Analyst Associate – Capgemini (2019–2020)  
+- Created SQL-based validation frameworks improving credit risk data accuracy by 25%.  
+- Built Power BI dashboards and automated compliance reports with 99.5% accuracy.  
+- Delivered actionable financial insights, increasing loan recovery rates by 12%.
 
 ---
 
